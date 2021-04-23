@@ -1,0 +1,23 @@
+.app {
+    padding-top: 5rem;
+    display: flex;
+    justify-content: center;
+    background-color: cadetblue;
+}
+
+
+.app select {
+    display: block;
+    margin: 0 auto;
+    width: 140px;
+    text-align: center;
+    size: 5;
+    overflow: hidden;
+}
+
+.wrap {
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    background-color: cadetblue;
+}
