@@ -59,7 +59,7 @@ function render(byChar) {
 
         if (showNames.innerHTML === '') {
             const newElement = document.createElement("p");
-            newElement.innerHTML = 'Збігів не знайдено';
+            newElement.innerHTML = 'No matches found';
             showNames.appendChild(newElement);
         }
     }
